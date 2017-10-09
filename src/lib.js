@@ -7,7 +7,7 @@
  *  created by MySetInterval..
  *  @type {Object}
  */
-var MyIntervals = {
+const MyIntervals = {
 	counter: 0,
 	intervals: {}
 }
